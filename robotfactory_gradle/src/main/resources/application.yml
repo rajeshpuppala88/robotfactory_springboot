@@ -1,0 +1,51 @@
+robotStocks:
+  - code: A
+    price: 10.28
+    available: 9
+    part: "Humanoid Face"
+    partType: Face
+  - code: B
+    price: 24.07
+    available: 7
+    part: "LCD Face"
+    partType: Face
+  - code: C
+    price: 13.30
+    available: 0
+    part: "Steampunk Face"
+    partType: Face
+  - code: D
+    price: 28.94
+    available: 1
+    part: "Arms with Hands"
+    partType: Arms
+  - code: E
+    price: 12.39
+    available: 3
+    part: "Arms with Grippers"
+    partType: Arms
+  - code: F
+    price: 30.77
+    available: 2
+    part: "Mobility with Wheels"
+    partType: Mobility
+  - code: G
+    price: 55.13
+    available: 15
+    part: "Mobility with Legs"
+    partType: Mobility
+  - code: H
+    price: 50.00
+    available: 7
+    part: "Mobility with Tracks"
+    partType: Mobility
+  - code: I
+    price: 90.12
+    available: 92
+    part: "Material Bioplastic"
+    partType: Material
+  - code: J
+    price: 82.31
+    available: 15
+    part: "Material Metallic"
+    partType: Material
